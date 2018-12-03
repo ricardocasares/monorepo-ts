@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "lib": ["es2017", "dom"],
+    "moduleResolution": "node",
+    "strictNullChecks": false,
+    "noImplicitAny": true,
+    "noUnusedLocals": false,
+    "noUnusedParameters": true,
+    "declaration": true,
+    "declarationMap": false,
+    "sourceMap": true,
+    "composite": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "typeRoots": ["../node_modules/@types"],
+    "baseUrl": "./",
+    "paths": {
+      "@pkgz": ["./*"]
+    }
+  },
+  "exclude": ["**/dist", "**/*.test.ts", "node_modules"]
+}

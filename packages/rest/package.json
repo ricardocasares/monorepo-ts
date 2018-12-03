@@ -1,0 +1,11 @@
+{
+  "name": "@pkgz/rest",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "author": "Ricardo Casares <ricardocasares@gmail.com>",
+  "repository": "github:ricardocasares/monorepo-ts",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
