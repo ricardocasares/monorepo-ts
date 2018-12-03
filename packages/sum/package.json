@@ -1,6 +1,6 @@
 {
   "name": "@pkgz/sum",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/index.js",
   "author": "Ricardo Casares <ricardocasares@gmail.com>",
   "repository": "github:ricardocasares/monorepo-ts",

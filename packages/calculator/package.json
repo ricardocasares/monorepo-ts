@@ -1,13 +1,13 @@
 {
   "name": "@pkgz/calculator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "dist/index.js",
   "author": "Ricardo Casares <ricardocasares@gmail.com>",
   "license": "MIT",
   "repository": "github:ricardocasares/monorepo-ts",
   "dependencies": {
-    "@pkgz/rest": "^0.0.1",
-    "@pkgz/sum": "^0.0.1"
+    "@pkgz/rest": "^0.0.2",
+    "@pkgz/sum": "^0.0.2"
   },
   "publishConfig": {
     "access": "public"
